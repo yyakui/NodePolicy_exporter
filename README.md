@@ -1,7 +1,3 @@
-# NodePolicy_exporter
-Prometheus-compatible agent for network connectivity probing, scheduler tasks, and real-time API detection.
-
-
 # 🚀 nodepolicy_exporter
 
 A lightweight, high‑performance network connectivity & policy probe agent for Prometheus.  
